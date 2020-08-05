@@ -13,7 +13,7 @@ function TeacherList() {
           <div className="input-block">
             <label htmlFor="subject">Matéria</label>
             <input type="text" id="subject"/>
-          </div>
+          </div>w
 
           <div className="input-block">
             <label htmlFor="week_day">Dia da semana</label>
